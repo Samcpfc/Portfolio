@@ -1603,6 +1603,10 @@ c:hover, c:active
 			float: left;
 			margin: 0 2em 2em 0;
 		}
+		.image.right {
+			float: right;
+			margin: 0 2em 2em 0;
+		}
 
 		.image.centered {
 			display: block;
